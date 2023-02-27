@@ -1,5 +1,5 @@
 ### Hi there 👋
-![java](https://img.shields.io/badge/<Java>-<Developer>-<blue>)
+![java](https://img.shields.io/badge/Java-Developer-blue)
 
 
 <!--
