@@ -28,3 +28,10 @@ ______
 _____
 ## :cyclone: GitHub активность: 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlekseiGunko&theme=tokyo-night)
+_____
+## :ballot_box_with_check: Мои контакты:
+ <div>
+    <a href="https://t.me/aleksei_gun" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="70" height="70" alt="telegram group" />
+    </a>
+  </div>
