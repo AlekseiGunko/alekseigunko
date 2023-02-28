@@ -18,6 +18,7 @@ _____
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="70" height="70"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="gitLab" alt="gitLab" width="70" height="70"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="gitHub" alt="gitHub" width="70" height="70"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetBrains" alt="gitHub" width="70" height="70"/>&nbsp
 </div>
 
 ______
