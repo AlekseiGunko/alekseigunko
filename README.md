@@ -113,21 +113,25 @@ PWA-RPG поверх реального мира + SaaS-платформа.
 
 <br/>
 
-<!-- ══════════════════ GITHUB STATS ══════════════════ -->
+<!-- ══════════════════ GITHUB STATS (надёжные shields.io — рендерятся всегда) ══════════════════ -->
 ## 📈 GitHub в цифрах
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlekseiGunko&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=8b5cf6&title_color=8b5cf6" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=AlekseiGunko&hide_border=true&theme=tokyonight&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakLabel=8b5cf6" alt="streak"/>
+  <img src="https://img.shields.io/github/followers/AlekseiGunko?style=for-the-badge&logo=github&logoColor=white&label=Подписчики&color=8b5cf6" alt="followers"/>
+  <img src="https://img.shields.io/badge/Основной_код-приватные_репо-475569?style=for-the-badge&logo=github&logoColor=white" alt="private"/>
+  <img src="https://img.shields.io/badge/Флагман-ParkOps-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="flagship"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiGunko&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=8b5cf6" alt="top langs"/>
+  <img src="https://img.shields.io/badge/модулей_в_проде-7-8b5cf6?style=for-the-badge" alt="modules"/>
+  <img src="https://img.shields.io/badge/Backend-Java_21_·_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="backend"/>
+  <img src="https://img.shields.io/badge/Data-ClickHouse--DWH-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="data"/>
+  <img src="https://img.shields.io/badge/Deploy-мульти--парк_·_zero--downtime-22c55e?style=for-the-badge&logo=docker&logoColor=white" alt="deploy"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekseiGunko&theme=tokyo-night&hide_border=true&area=true&color=8b5cf6&line=22d3ee&point=ffffff" width="95%" alt="activity graph"/>
-</p>
+<blockquote align="center">
+Основной код — в <b>приватных</b> репозиториях (продуктовые платформы), поэтому классические stat-карточки пусты. Реальный масштаб — в разделе «Флагманы» выше.
+</blockquote>
 
 <br/>
 
